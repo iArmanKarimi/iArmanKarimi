@@ -117,14 +117,6 @@ bootstrap, material ui, sass, .net, wpf, elixir, sql, ...** -->
       height="40"
     />
   </a>
-  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
-      alt="elixir"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
