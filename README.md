@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate coder from Iran</h3>
 
 - 🌱 I’m currently learning **React, svelte, css,
-bootstrap, material ui, sass, golang, rust, ruby, perl ...**
+bootstrap, material ui, sass, golang, rust ...**
 <!-- **React, svelte, golang, rust, typescript, css,
 bootstrap, material ui, sass, .net, wpf, elixir, sql, ...** -->
 - 📫 How to reach me **mrevid2@gmail.com**
