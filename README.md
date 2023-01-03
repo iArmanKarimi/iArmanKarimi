@@ -267,10 +267,4 @@ bootstrap, material ui, sass, .net, wpf, elixir, sql, ...** -->
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iarmankarimi&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="iarmankarimi"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArmanKarimi&hide=javascript,css,scss,html&theme=tokyonight)
