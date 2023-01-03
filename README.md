@@ -267,4 +267,5 @@ bootstrap, material ui, sass, .net, wpf, elixir, sql, ...** -->
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArmanKarimi&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarmankarimi&layout=compact&langs_count=10&theme=gruvbox_light&hide=smalltalk)](https://github.com/anuraghazra/github-readme-stats)
+
