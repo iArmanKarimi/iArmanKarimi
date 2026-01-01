@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IRC Staff System<br>🌱 I’m currently learning React, Redux, Next, tailwindcss, jest
+🔭 I’m currently working on IRC Staff System<br>🌱 I’m currently learning React, Next, Zustand, tailwindcss, React Testing Library
 
 
 ## 🌐 Socials:
